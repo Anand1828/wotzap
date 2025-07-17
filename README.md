@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
@@ -105,3 +106,6 @@ npm run build
 - Styled with Tailwind CSS
 
 Built with ❤️ on Rocket.new
+=======
+# wotzap
+>>>>>>> 15449b63aa9dfbdeea040dd226bb4eb72f79a471
